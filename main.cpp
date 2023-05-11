@@ -7,7 +7,6 @@ using namespace sf;
 int main() {
 
 	RenderWindow window(VideoMode(1000, 500), "SFML works");
-;
 	RectangleShape shape;
 
 	Player player;
